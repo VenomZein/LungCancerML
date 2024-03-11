@@ -1,5 +1,5 @@
 1. Shallow models comparaison
-   This file includes detailed data analysis, model training, and comparison on a lung cancer dataset. It likely comprises several sections:
+   includes detailed data analysis, model training, and comparison on a lung cancer dataset. It likely comprises several sections:
    - **Data Preprocessing:** This section preprocesses the raw data, handling missing values, encoding categorical variables, and scaling numerical features.
    - **Exploratory Data Analysis (EDA):** Here, various statistical analyses, visualizations, and insights about the lung cancer dataset are presented. It may include histograms, scatter plots, correlation matrices, etc., to understand the relationships between features and the target variable.
    - **Model Training:** 10 machine learning models, such as logistic regression, decision trees, support vector machines, etc., are trained on the preprocessed data.
